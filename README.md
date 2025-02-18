@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on a firmware
+- 🌱 I’m currently learning coding
+- 🤔 I’m looking for help with coding
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm enrolled at my university as biology student.
+
 <!--
 **freaxboi/freaxboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
