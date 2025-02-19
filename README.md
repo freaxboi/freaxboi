@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a firmware
 - 🌱 I’m currently learning coding
 - 🤔 I’m looking for help with coding
-- - 📫 How to reach me: hi@freaxboi.com
+- 📫 How to reach me: hi@freaxboi.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm enrolled at my university as biology student.
 
